@@ -10,6 +10,12 @@
 <img src="https://skillicons.dev/icons?i=scss,styledcomponents,tailwind,git,github,figma,vscode&theme=dark"> <br />
 <br /><br />
 
+## 📊 Github Stats
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=j2yn34&theme=dracula">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j2yn34&layout=compact&theme=dracula&hide_border=true&count_private=true">
+<br /><br />
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&fontAlign=80&fontAlignY=40&color=gradient&customColorList=0,1&section=footer">  
 </div>
 
