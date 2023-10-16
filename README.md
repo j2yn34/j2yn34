@@ -16,6 +16,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j2yn34&layout=compact&theme=dracula&hide_border=true&count_private=true">
 <br /><br />
 
+## 🤝🏻 Contact
+
+<a href="mailto:j2ynd2v@gmail.com"><img src="https://img.shields.io/badge/-j2ynd2v@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&fontAlign=80&fontAlignY=40&color=gradient&customColorList=0,1&section=footer">  
 </div>
 
