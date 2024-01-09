@@ -1,4 +1,4 @@
-<div align=center>
+<div align=left>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&fontAlign=80&fontAlignY=40&color=gradient&customColorList=0,1,7&section=header">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&color=F765AF&repeat=false&width=435&lines=Hi%2C+I'm+JiYeon!👋">
@@ -10,10 +10,16 @@
 <img src="https://skillicons.dev/icons?i=scss,styledcomponents,tailwind,git,github,figma,vscode&theme=dark"> <br />
 <br /><br />
 
-## 📊 Github Stats
+## 🗂️ Projects
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=j2yn34&theme=dracula">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j2yn34&layout=compact&theme=dracula&hide_border=true&count_private=true">
+<h4>🗳️ "Best Choice" : 투표 게시글을 업로드하고, 실시간 다인원 채팅과 알림 기능을 제공하는 커뮤니티 웹 서비스 </h4>
+  
+  - 진행 기간 : 2023.08 ~ 2023.09 <br/>
+  - 참여 인원 : 프론트엔드 2명, 백엔드 2명 <br/>
+  - FE 기술 스택 : TypeScript, React, Recoil, Styled-Compnents, Tailwind.css, chart.js <br/>
+  - 깃허브🔧 <a href="https://github.com/winnow-2023">Best Chocie Github 방문하기</a>
+  - 배포 링크👉 <a href="https://best-choice-steel.vercel.app/">Best Choice 이용해보기</a> <br/>
+
 <br /><br />
 
 ## 🤝🏻 Contact
